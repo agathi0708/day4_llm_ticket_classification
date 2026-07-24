@@ -1,0 +1,46 @@
+category,urgency,sentiment,ticket_id
+Billing,High,Negative,TCK001
+Technical Issue,High,Negative,TCK002
+Account Access,Medium,Negative,TCK003
+Feature Request,Low,Positive,TCK004
+Complaint,High,Negative,TCK005
+General Inquiry,Low,Neutral,TCK006
+Billing,Low,Neutral,TCK007
+Technical Issue,High,Negative,TCK008
+Account Access,Critical,Negative,TCK009
+Feature Request,Low,Positive,TCK010
+Technical Issue,Critical,Negative,TCK011
+Billing,Low,Neutral,TCK012
+General Inquiry,Low,Positive,TCK013
+Account Access,Medium,Neutral,TCK014
+Billing,Medium,Neutral,TCK015
+Technical Issue,High,Negative,TCK016
+Feature Request,Low,Neutral,TCK017
+Complaint,High,Negative,TCK018
+Feature Request,Medium,Neutral,TCK019
+Complaint,Medium,Negative,TCK020
+Billing | Account Access,High,Negative,TCK021
+Technical Issue,Medium,Neutral,TCK022
+Billing,High,Negative,TCK023
+Billing,Medium,Negative,TCK024
+Technical Issue,Medium,Negative,TCK025
+Billing,Medium,Negative,TCK026
+Technical Issue,High,Neutral,TCK027
+Feature Request,Medium,Neutral,TCK028
+Technical Issue,High,Negative,TCK029
+Technical Issue,Medium,Neutral,TCK030
+Complaint,High,Negative,TCK031
+Technical Issue,Critical,Negative,TCK032
+Account Access,High,Negative,TCK033
+Complaint,High,Negative,TCK034
+Billing,High,Negative,TCK035
+Billing,High,Negative,TCK036
+Technical Issue,High,Negative,TCK037
+General Inquiry,Low,Neutral,TCK038
+Account Access,Medium,Neutral,TCK039
+General Inquiry,Low,Neutral,TCK040
+Resolved,Low,Positive,TCK041
+Billing,Low,Negative,TCK042
+Complaint,Critical,Negative,TCK043
+Billing | Technical Issue | Complaint,High,Negative,TCK044
+General Inquiry,Low,Neutral,TCK045

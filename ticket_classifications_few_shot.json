@@ -1,0 +1,272 @@
+[
+    {
+        "category":"Billing",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK001"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK002"
+    },
+    {
+        "category":"Account Access",
+        "urgency":"Medium",
+        "sentiment":"Negative",
+        "ticket_id":"TCK003"
+    },
+    {
+        "category":"Feature Request",
+        "urgency":"Low",
+        "sentiment":"Positive",
+        "ticket_id":"TCK004"
+    },
+    {
+        "category":"Complaint",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK005"
+    },
+    {
+        "category":"General Inquiry",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK006"
+    },
+    {
+        "category":"Billing",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK007"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK008"
+    },
+    {
+        "category":"Account Access",
+        "urgency":"Critical",
+        "sentiment":"Negative",
+        "ticket_id":"TCK009"
+    },
+    {
+        "category":"Feature Request",
+        "urgency":"Low",
+        "sentiment":"Positive",
+        "ticket_id":"TCK010"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"Critical",
+        "sentiment":"Negative",
+        "ticket_id":"TCK011"
+    },
+    {
+        "category":"Billing",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK012"
+    },
+    {
+        "category":"General Inquiry",
+        "urgency":"Low",
+        "sentiment":"Positive",
+        "ticket_id":"TCK013"
+    },
+    {
+        "category":"Account Access",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK014"
+    },
+    {
+        "category":"Billing",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK015"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK016"
+    },
+    {
+        "category":"Feature Request",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK017"
+    },
+    {
+        "category":"Complaint",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK018"
+    },
+    {
+        "category":"Feature Request",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK019"
+    },
+    {
+        "category":"Complaint",
+        "urgency":"Medium",
+        "sentiment":"Negative",
+        "ticket_id":"TCK020"
+    },
+    {
+        "category":"Billing | Account Access",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK021"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK022"
+    },
+    {
+        "category":"Billing",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK023"
+    },
+    {
+        "category":"Billing",
+        "urgency":"Medium",
+        "sentiment":"Negative",
+        "ticket_id":"TCK024"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"Medium",
+        "sentiment":"Negative",
+        "ticket_id":"TCK025"
+    },
+    {
+        "category":"Billing",
+        "urgency":"Medium",
+        "sentiment":"Negative",
+        "ticket_id":"TCK026"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"High",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK027"
+    },
+    {
+        "category":"Feature Request",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK028"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK029"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK030"
+    },
+    {
+        "category":"Complaint",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK031"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"Critical",
+        "sentiment":"Negative",
+        "ticket_id":"TCK032"
+    },
+    {
+        "category":"Account Access",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK033"
+    },
+    {
+        "category":"Complaint",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK034"
+    },
+    {
+        "category":"Billing",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK035"
+    },
+    {
+        "category":"Billing",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK036"
+    },
+    {
+        "category":"Technical Issue",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK037"
+    },
+    {
+        "category":"General Inquiry",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK038"
+    },
+    {
+        "category":"Account Access",
+        "urgency":"Medium",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK039"
+    },
+    {
+        "category":"General Inquiry",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK040"
+    },
+    {
+        "category":"Resolved",
+        "urgency":"Low",
+        "sentiment":"Positive",
+        "ticket_id":"TCK041"
+    },
+    {
+        "category":"Billing",
+        "urgency":"Low",
+        "sentiment":"Negative",
+        "ticket_id":"TCK042"
+    },
+    {
+        "category":"Complaint",
+        "urgency":"Critical",
+        "sentiment":"Negative",
+        "ticket_id":"TCK043"
+    },
+    {
+        "category":"Billing | Technical Issue | Complaint",
+        "urgency":"High",
+        "sentiment":"Negative",
+        "ticket_id":"TCK044"
+    },
+    {
+        "category":"General Inquiry",
+        "urgency":"Low",
+        "sentiment":"Neutral",
+        "ticket_id":"TCK045"
+    }
+]
